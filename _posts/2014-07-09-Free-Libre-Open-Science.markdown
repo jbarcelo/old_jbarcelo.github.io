@@ -2,7 +2,7 @@
 layout: post
 title:  "Free Libre Open Science"
 date:   2014-07-09 10:46:43
-categories: paper
+categories: science
 ---
 
 There is much room for improvement in the way we carry out research.
