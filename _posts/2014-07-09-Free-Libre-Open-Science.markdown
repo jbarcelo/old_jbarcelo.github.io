@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Free Libre Open Science"
-date:   2014-07-04 16:46:43
+date:   2014-07-09 10:46:43
 categories: paper
 ---
 
