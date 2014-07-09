@@ -18,7 +18,6 @@ The participants in the ecosystem are very motivated and enjoy what they do.
 It is easy to identify geniuses, and also people with litle skills as myself.
 The nice part is that everyone can play a role in this ecosystem and everyone can feel useful.
 This does not mean that there are not discussions and problems in FLOSS.
-There are.
 But overall seems to be a great approach for those that contribute and also for those that benefit.
 
 The contributors to FLOSS publish their work right away, even when it is not finished or there are no guarantees that it is right.
