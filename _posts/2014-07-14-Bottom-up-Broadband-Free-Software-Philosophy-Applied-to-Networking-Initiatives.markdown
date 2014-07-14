@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Privacy in the Public Bitcoin Blockchain"
+title:  "Bottom-up Broadband: Free Software Philosophy Applied to Networking Initiatives"
 date:   2014-07-14 16:46:43
 categories: paper
 ---
