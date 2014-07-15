@@ -5,7 +5,7 @@ date:   2015-07-14 18:13:43
 categories: education
 ---
 
-["Hands On Wireless Sensor Network"][web] (#HandsOnWSN) is a peer-to-peer learning community to build Wireless Sensor Networks using Arduino and XBee. The list of the most active contributors include Luis Sanabria, Javier López and Laia Albó. The idea was to bootstrap a P2P learning community by providing some content and then accepting the contributions of the community to keep growing and improving.
+["Hands On Wireless Sensor Network"][web] (#HandsOnWSN) is a peer-to-peer learning community to build Wireless Sensor Networks using Arduino and XBee. The list of the most active contributors includes Luis Sanabria, Javier López and Laia Albó. The idea was to bootstrap a P2P learning community by providing some content and then accepting the contributions of the community to keep growing and improving.
 
 The project includes a course at the [Peer-to-Peer University][P2PU], a meetup group, videos, a written guide, forum and mailing list.
 While the guide we had prepared back in 2013 has been tremendously successful, with [more than 1,400 downloads in scribdb][scribdb] at the time of this writing, the other additional material that we have created has not received that much attention .
@@ -20,4 +20,4 @@ Now I suspect that the explanation of the problems lies in the XBee Explorer whi
 
 [web]:    http://HandsOnWSN.org
 [P2PU]:    http://p2pu.org
-[sribdb]:   http://www.scribd.com/doc/156136472/A-course-on-Wireless-Sensor-Networks-WSNs
+[scribdb]:   http://www.scribd.com/doc/156136472/A-course-on-Wireless-Sensor-Networks-WSNs
