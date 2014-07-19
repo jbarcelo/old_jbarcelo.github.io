@@ -9,7 +9,7 @@ Information and Communication Technologies (ICT) are shaping our society.
 They have accelerated the pace of change and evolution to levels that we could have never imagined.
 And the change is accelerating as new technologies become available and widespread.
 
-We are quickly evolving from industrial capitalism to a knowledge society in which information and knowledge is much more valuable than material goods.
+We are quickly evolving from industrial capitalism to a knowledge society in which information and knowledge are much more valuable than material goods.
 In the digital world, information can be easily replicated and transmitted across the globe.
 As a result, the digital economy is an economy of abundance.
 
@@ -39,7 +39,7 @@ Universities - which are institutions devoted to the creation, management and tr
 But adapting to new times is not always easy for everyone.
 Opening a hacklab at  a university is clearly a challenge.
 
-A possible way to start could be to invite related initiatives to offer workshops in the new hacklab at UPF.
+A possible way to start could be to invite related initiatives to offer workshops in the new hacklab at Universitat Pompeu Fabra (UPF).
 Some ideas that come to my mind are:
 
 * [guifi.net][guifi.net]
