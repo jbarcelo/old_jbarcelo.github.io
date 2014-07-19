@@ -40,6 +40,7 @@ Opening a hacklab at  a university is clearly a challenge.
 
 A possible way to start could be to invite related initiatives to offer workshops in the new hacklab at UPF.
 Some ideas that come to my mind are:
+
 * [guifi.net][guifi.net]
 * [Made Barcelona][made]
 * [FabLab Barcelona][fablabbcn]
