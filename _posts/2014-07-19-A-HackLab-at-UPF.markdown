@@ -19,7 +19,7 @@ We need more effective approaches to take full advantage of ICT technologies tha
 
 A necessary exercise is to try to identify which are the initiatives that are thriving in the information society.
 *Hacklabs*  seem to be one of the innovation powerhouses of the information society.
-The hacker community is driven by moral values known as [hacker ethic][hacker-ethic]
+The hacker community is driven by moral values known as [hacker ethic][hacker-ethic]:
 
 * Sharing
 * Openness
@@ -35,7 +35,8 @@ Other keywords include:
 * Bottom-up
 
 The relaxed, interdisciplinary and intellectually challenging atmosphere of the hacklabs have proven to be tremendously effective for learning. 
-Universities, which are institutions devoted to the creation, management and transfer of knowledge can learn from hacklabs to make education and innovation more effective and enjoyable.
+Universities - which are institutions devoted to the creation, management and transfer of knowledge - can learn from hacklabs to make education and innovation more effective and enjoyable.
+But adapting to new times is not always easy for everyone.
 Opening a hacklab at  a university is clearly a challenge.
 
 A possible way to start could be to invite related initiatives to offer workshops in the new hacklab at UPF.
