@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A HackLab at UPF"
-date:   2015-07-15 20:13:43
+date:   2015-07-19 20:13:43
 categories: education
 ---
 
@@ -20,6 +20,7 @@ We need more effective approaches to take full advantage of ICT technologies tha
 A necessary exercise is to try to identify which are the initiatives that are thriving in the information society.
 *Hacklabs*  seem to be one of the innovation powerhouses of the information society.
 The hacker community is driven by moral values known as [hacker ethic][hacker-ethic]
+
 * Sharing
 * Openness
 * Decentralization
