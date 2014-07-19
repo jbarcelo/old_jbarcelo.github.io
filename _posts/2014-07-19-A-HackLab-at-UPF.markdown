@@ -28,6 +28,7 @@ The hacker community is driven by moral values known as [hacker ethic][hacker-et
 * World improvement
 
 Other keywords include:
+
 * Hands-on, learn-by-doing
 * Peer-to-peer production and learning
 * Meritocracy
