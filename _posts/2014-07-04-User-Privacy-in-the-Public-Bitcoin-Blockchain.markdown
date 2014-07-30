@@ -18,4 +18,4 @@ Then we analyze the Blockchain to find transactions that could potentially be Co
 
 [Read More][paperlink]
 
-[paperlink]:    www.dtic.upf.edu/~jbarcelo/papers/20140704_User_Privacy_in_the_Public_Bitcoin_Blockchain/paper.pdf
+[paperlink]:    http://www.dtic.upf.edu/~jbarcelo/papers/20140704_User_Privacy_in_the_Public_Bitcoin_Blockchain/paper.pdf
