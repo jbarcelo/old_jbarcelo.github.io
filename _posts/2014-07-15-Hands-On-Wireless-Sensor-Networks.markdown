@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Hands On Wireless Sensor Networks"
 date:   2015-07-15 18:13:43
 categories: education

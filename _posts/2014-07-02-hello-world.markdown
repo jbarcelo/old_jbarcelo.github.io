@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Hello World"
 date:   2014-07-02 16:46:43
 categories: personal

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "User Privacy in the Public Bitcoin Blockchain"
 date:   2014-07-04 16:46:43
 categories: paper

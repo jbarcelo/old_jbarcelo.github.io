@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Free Libre Open Science"
 date:   2014-07-09 10:46:43
 categories: science
