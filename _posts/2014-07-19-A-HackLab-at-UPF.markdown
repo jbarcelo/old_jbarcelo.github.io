@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "A HackLab at UPF"
-date:   2015-07-19 20:13:43
+date:   2014-07-19 20:13:43
 categories: education
 ---
 
