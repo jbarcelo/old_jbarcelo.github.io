@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Professor Cicles Formatius i Català"
-date:   2014-08-11 20:13:43
+date:   2018-03-26 16:21:00
 categories: teaching
 ---
 
